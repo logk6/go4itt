@@ -1,6 +1,6 @@
 tempfile
 time
-streamlit as st
+streamlit
 google 
 os
 mem0 
