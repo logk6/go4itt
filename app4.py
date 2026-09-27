@@ -1,7 +1,9 @@
 import tempfile
 import time
 import streamlit as st
-from google import genai
+
+import google.genai as genai
+
 import os
 from mem0 import Memory
 from transformers import AutoModelForCausalLM, AutoTokenizer
