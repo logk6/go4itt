@@ -1,9 +1,7 @@
-
 streamlit
-google 
-
-mem0 
-transformers 
 torch
+transformers
+sentence-transformers
 lyricsgenius
-sentence_transformers
+mem0
+google-genai
