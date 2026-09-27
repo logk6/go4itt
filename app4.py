@@ -2,7 +2,7 @@ import tempfile
 import time
 import streamlit as st
 import google.genai as genai
-#from mem0 import Memory
+from mem0 import Memory
 import lyricsgenius
 
 # ------------------ Cấu hình giao diện ------------------
